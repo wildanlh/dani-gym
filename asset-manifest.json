@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/dani-gym/static/css/main.a290511e.css",
+    "main.js": "/dani-gym/static/js/main.4a177e49.js",
+    "static/media/location-side.jpg": "/dani-gym/static/media/location-side.cda8796e54639419c073.jpg",
+    "static/media/location-front.jpg": "/dani-gym/static/media/location-front.8e0b2e7df61d4faedcef.jpg",
+    "static/media/barbell-plates.jpg": "/dani-gym/static/media/barbell-plates.b02a41af20299d5afe56.jpg",
+    "static/media/shoulder-press.jpg": "/dani-gym/static/media/shoulder-press.0ded497870656353f1f7.jpg",
+    "static/media/full-gym.jpg": "/dani-gym/static/media/full-gym.c8911fdc718122e33304.jpg",
+    "static/media/dumbell-pec-deck-machine.jpg": "/dani-gym/static/media/dumbell-pec-deck-machine.6ad83aecdfc5cb5572a6.jpg",
+    "static/media/dumbell-plates-hexagonal.jpg": "/dani-gym/static/media/dumbell-plates-hexagonal.0eb020f70303d7de71b4.jpg",
+    "static/media/logo.png": "/dani-gym/static/media/logo.6367ef4faaacdb366c33.png",
+    "static/media/interior-2.jpg": "/dani-gym/static/media/interior-2.ca234ed4cca951f57479.jpg",
+    "static/media/dumbell-plates-regular.jpg": "/dani-gym/static/media/dumbell-plates-regular.d1fb4c5ac0ce269d309b.jpg",
+    "static/media/interior-1.jpg": "/dani-gym/static/media/interior-1.1306b068459e7f5513d9.jpg",
+    "static/media/interior-3.jpg": "/dani-gym/static/media/interior-3.ecc6957e092aaae541cf.jpg",
+    "static/media/air-walker.jpg": "/dani-gym/static/media/air-walker.d69192e550dfabd06670.jpg",
+    "static/media/interior-5.jpg": "/dani-gym/static/media/interior-5.77fab206a949202f0ac6.jpg",
+    "static/media/interior-4.jpg": "/dani-gym/static/media/interior-4.8a8071f38647e3e30017.jpg",
+    "static/media/interior-6.jpg": "/dani-gym/static/media/interior-6.24584027c3062f5e800e.jpg",
+    "index.html": "/dani-gym/index.html",
+    "static/media/border.svg": "/dani-gym/static/media/border.d297cc08714d4923b07063a6081d0e60.svg",
+    "main.a290511e.css.map": "/dani-gym/static/css/main.a290511e.css.map",
+    "main.4a177e49.js.map": "/dani-gym/static/js/main.4a177e49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a290511e.css",
+    "static/js/main.4a177e49.js"
+  ]
+}
