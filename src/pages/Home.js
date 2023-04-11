@@ -20,7 +20,7 @@ const Home = () => {
             animate={{ opacity: 1 }}
             transition={{ duration: 1, delay: 1.2 }}
           >
-            <span className="text-yellow">Weel GYM</span> Fitness Center
+            <span className="text-yellow">Dani GYM</span> Fitness Center
             Sumedang
           </motion.h1>
           <motion.p
